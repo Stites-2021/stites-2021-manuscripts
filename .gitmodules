@@ -1,3 +1,6 @@
 [submodule "ew495-fa2020-stites"]
 	path = ew495-fa2020-stites
 	url = git@github.com:devangel77b/ew495-fa2020-stites.git
+[submodule "ew495-fa2020-poster"]
+	path = ew495-fa2020-poster
+	url = git@github.com:Stites-2021/ew495-fa2020-poster.git
